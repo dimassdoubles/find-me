@@ -33,7 +33,6 @@ class _CursorFollowerState extends State<CursorFollower> {
       onExit: (e) {
         setState(() {
           isHover = false;
-          print('Keluar');
         });
       },
       child: Scaffold(
@@ -91,18 +90,21 @@ class _CursorFollowerState extends State<CursorFollower> {
         blendMode: BlendMode.difference,
         child: Padding(
           padding: const EdgeInsets.all(24),
-          child: Container(
-            width: 150,
-            height: 150,
-            decoration: BoxDecoration(
-              color: Colors.white,
-              boxShadow: [
-                BoxShadow(
-                  color: Colors.white.withOpacity(0.7),
-                  blurRadius: 15,
-                ),
-              ],
-              borderRadius: BorderRadius.circular(100),
+          child: Visibility(
+            visible: isHover ? true : false,
+            child: Container(
+              width: 150,
+              height: 150,
+              decoration: BoxDecoration(
+                color: Colors.white,
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.white.withOpacity(0.7),
+                    blurRadius: 15,
+                  ),
+                ],
+                borderRadius: BorderRadius.circular(100),
+              ),
             ),
           ),
         ),
