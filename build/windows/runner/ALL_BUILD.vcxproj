@@ -85,11 +85,11 @@
     </Midl>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower\windows\runner\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me\windows\runner\CMakeLists.txt">
       <StdOutEncoding>UTF-8</StdOutEncoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/windows/runner/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/windows/runner/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows" --check-stamp-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows/runner/CMakeFiles/generate.stamp"
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows" --check-stamp-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows/runner/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -98,11 +98,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">Building Custom Rule C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/windows/runner/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">Building Custom Rule C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/windows/runner/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows" --check-stamp-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows/runner/CMakeFiles/generate.stamp"
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows" --check-stamp-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows/runner/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -111,11 +111,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Profile|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/windows/runner/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/windows/runner/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows" --check-stamp-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows/runner/CMakeFiles/generate.stamp"
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows" --check-stamp-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows/runner/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -124,22 +124,22 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me\build\windows\runner\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower\build\windows\ZERO_CHECK.vcxproj">
+    <ProjectReference Include="C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me\build\windows\ZERO_CHECK.vcxproj">
       <Project>{3A3BCD19-779B-32CC-8B23-D987CEA5DD39}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower\build\windows\runner\cursor_follower.vcxproj">
+    <ProjectReference Include="C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me\build\windows\runner\find_me.vcxproj">
       <Project>{9798AC4B-67F3-335E-B011-9796977AB5C4}</Project>
-      <Name>cursor_follower</Name>
+      <Name>find_me</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

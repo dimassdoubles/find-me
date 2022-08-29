@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/windows/runner
+# Install script for directory: C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/windows/runner
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "$<TARGET_FILE_DIR:cursor_follower>")
+  set(CMAKE_INSTALL_PREFIX "$<TARGET_FILE_DIR:find_me>")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

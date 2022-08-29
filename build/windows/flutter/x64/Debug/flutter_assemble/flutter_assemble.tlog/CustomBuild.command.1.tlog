@@ -1,6 +1,6 @@
-^C:\USERS\GATOTKACA\DOCUMENTS\FLUTTER EVERYDAY\MINI PROJECTS\CURSOR_FOLLOWER\BUILD\WINDOWS\CMAKEFILES\0AE80A501F9993A1B4B978B4A563D1D6\FLUTTER_WINDOWS.DLL.RULE
+^C:\USERS\GATOTKACA\DOCUMENTS\FLUTTER EVERYDAY\MINI PROJECTS\find_me\BUILD\WINDOWS\CMAKEFILES\0AE80A501F9993A1B4B978B4A563D1D6\FLUTTER_WINDOWS.DLL.RULE
 setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter "PROJECT_DIR=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower" FLUTTER_ROOT=C:\src\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower" "FLUTTER_TARGET=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\cursor_follower\.dart_tool\package_config.json" C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter "PROJECT_DIR=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me" FLUTTER_ROOT=C:\src\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me" "FLUTTER_TARGET=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\Gatotkaca\Documents\Flutter Everyday\mini projects\find_me\.dart_tool\package_config.json" C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -8,7 +8,7 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
-^C:\USERS\GATOTKACA\DOCUMENTS\FLUTTER EVERYDAY\MINI PROJECTS\CURSOR_FOLLOWER\BUILD\WINDOWS\CMAKEFILES\1D29A908DBD8FC5D56443B122C034BA5\FLUTTER_ASSEMBLE.RULE
+^C:\USERS\GATOTKACA\DOCUMENTS\FLUTTER EVERYDAY\MINI PROJECTS\find_me\BUILD\WINDOWS\CMAKEFILES\1D29A908DBD8FC5D56443B122C034BA5\FLUTTER_ASSEMBLE.RULE
 setlocal
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
@@ -16,9 +16,9 @@ endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd
-^C:\USERS\GATOTKACA\DOCUMENTS\FLUTTER EVERYDAY\MINI PROJECTS\CURSOR_FOLLOWER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+^C:\USERS\GATOTKACA\DOCUMENTS\FLUTTER EVERYDAY\MINI PROJECTS\find_me\WINDOWS\FLUTTER\CMAKELISTS.TXT
 setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows" --check-stamp-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows/flutter/CMakeFiles/generate.stamp"
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows" --check-stamp-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows/flutter/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

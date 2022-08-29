@@ -17,7 +17,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "..\\ZERO_CHEC
 	ProjectSection(ProjectDependencies) = postProject
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cursor_follower", "cursor_follower.vcxproj", "{9798AC4B-67F3-335E-B011-9796977AB5C4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "find_me", "find_me.vcxproj", "{9798AC4B-67F3-335E-B011-9796977AB5C4}"
 	ProjectSection(ProjectDependencies) = postProject
 		{3A3BCD19-779B-32CC-8B23-D987CEA5DD39} = {3A3BCD19-779B-32CC-8B23-D987CEA5DD39}
 		{0AE5ED31-E1F1-37DE-8469-2731E23B9BFA} = {0AE5ED31-E1F1-37DE-8469-2731E23B9BFA}

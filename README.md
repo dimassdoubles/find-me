@@ -1,4 +1,4 @@
-# cursor_follower
+# find_me
 
 A new Flutter project.
 

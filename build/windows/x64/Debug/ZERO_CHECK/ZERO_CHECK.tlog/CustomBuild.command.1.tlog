@@ -1,6 +1,6 @@
-^C:\USERS\GATOTKACA\DOCUMENTS\FLUTTER EVERYDAY\MINI PROJECTS\CURSOR_FOLLOWER\BUILD\WINDOWS\CMAKEFILES\CEBAD02788E5722383FDE1EA4DD75BE9\GENERATE.STAMP.RULE
+^C:\USERS\GATOTKACA\DOCUMENTS\FLUTTER EVERYDAY\MINI PROJECTS\find_me\BUILD\WINDOWS\CMAKEFILES\CEBAD02788E5722383FDE1EA4DD75BE9\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/cursor_follower/build/windows/cursor_follower.sln"
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/windows" "-BC:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Gatotkaca/Documents/Flutter Everyday/mini projects/find_me/build/windows/find_me.sln"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

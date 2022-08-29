@@ -1,6 +1,6 @@
 {
-    "name": "cursor_follower",
-    "short_name": "cursor_follower",
+    "name": "find_me",
+    "short_name": "find_me",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
