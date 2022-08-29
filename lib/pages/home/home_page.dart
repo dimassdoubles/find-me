@@ -5,6 +5,7 @@ import 'package:get/get.dart';
 
 import '../../widgets/blend_mask.dart';
 import '../../controller/cursor_position_controller.dart';
+import 'dart:html' as html;
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -110,7 +111,7 @@ class _HomePageState extends State<HomePage> {
       left: right.toDouble(),
       child: InkWell(
         onTap: () {
-          // html.window.open(link, "_blank");
+          html.window.open(link, "_blank");
         },
         child: SizedBox(
           width: 50,
