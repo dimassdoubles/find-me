@@ -1,4 +1,4 @@
-import 'package:cursor_follower/cursor_follower.dart';
+import 'package:find_me/cursor_follower.dart';
 import 'package:flutter/material.dart';
 
 void main() {

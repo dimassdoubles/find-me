@@ -1,4 +1,4 @@
-import 'package:cursor_follower/blend_mask.dart';
+import 'package:find_me/blend_mask.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/foundation/key.dart';
